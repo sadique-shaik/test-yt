@@ -1,0 +1,106 @@
+{
+    "movies" : [
+
+        {
+            "name": "muni",
+            "rating": "7.8",
+            "release": "2021-3-4"
+           },
+       {
+        "name": "sarkar",
+        "rating": "7.8",
+        "release": "2020-3-4"
+       },
+
+       {
+        "name": "dhada",
+        "rating": "6.5",
+        "release": "2019-3-4"
+       },
+       {
+        "name": "v",
+        "rating": "8.3",
+        "release": "2018-3-4"
+       },
+       {
+        "name": "munna",
+        "rating": "5.3",
+        "release": "2016-3-4"
+       },
+       {
+        "name": "2 states",
+        "rating": "8.3",
+        "release": "2015-3-4"
+       },
+       {
+        "name": "3",
+        "rating": "9.3",
+        "release": "2014-3-4"
+       },
+       {
+        "name": "Aarya 2",
+        "rating": "7.4",
+        "release": "2013-3-4"
+       },
+       {
+        "name": "Ae Dil Hai Mushikal",
+        "rating": "8.5",
+        "release": "2012-3-4"
+       },
+       {
+        "name": "Agneepath",
+        "rating": "8.3",
+        "release": "2011-3-4"
+       },
+       {
+        "name": "Baadashah",
+        "rating": "6.3",
+        "release": "2010-3-4"
+       },
+       {
+        "name": "Badlapur",
+        "rating": "8.5",
+        "release": "2009-3-4"
+       },
+       {
+        "name": "Bajirao Masthani",
+        "rating": "8.5",
+        "release": "2008-3-4"
+       },
+       {
+        "name": "Bang Bang",
+        "rating": "8.5",
+        "release": "2007-3-4"
+       },
+       {
+        "name": "Beast",
+        "rating": "7.5",
+        "release": "2006-3-4"
+       },
+       {
+        "name": "Bengal Tiger",
+        "rating": "8.5",
+        "release": "2005-3-4"
+       },
+       {
+        "name": "Badlapur",
+        "rating": "8.5",
+        "release": "2004-3-4"
+       },
+       {
+        "name": "Chor Bazaar",
+        "rating": "7.5",
+        "release": "2003-3-4"
+       },
+       {
+        "name": "Das ka Dhamki",
+        "rating": "8.3",
+        "release": "2002-3-4"
+       },
+       {
+        "name": "Dasara",
+        "rating": "8.5",
+        "release": "2001-3-4"
+       }
+    ]
+}
